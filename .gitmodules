@@ -28,3 +28,6 @@
 [submodule "MyCustomHooks"]
 	path = MyCustomHooks
 	url = https://github.com/LuisFarfan57/MyCustomHooks.git
+[submodule "08-journal-app"]
+	path = 08-journal-app
+	url = https://github.com/LuisFarfan57/08-journal-app
