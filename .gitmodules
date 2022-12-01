@@ -9,7 +9,7 @@
 	url = https://github.com/LuisFarfan57/React-de-cero-a-experto-Hooks-y-MERN/04-gif-expert-app-vite
 [submodule "05-hook-app"]
 	path = 05-hook-app
-	url = https://github.com/LuisFarfan57/React-de-cero-a-experto-Hooks-y-MERN/05-hook-app
+	url = https://github.com/LuisFarfan57/05-hook-app
 [submodule "CustomHooks"]
 	path = CustomHooks
 	url = https://github.com/LuisFarfan57/React-de-cero-a-experto-Hooks-y-MERN/CustomHooks
@@ -19,3 +19,6 @@
 [submodule "02-intro-to-javascript"]
 	path = 02-intro-to-javascript
 	url = https://github.com/LuisFarfan57/02-intro-to-javascript
+[submodule "gif-expert-app-vite"]
+	path = gif-expert-app-vite
+	url = https://github.com/LuisFarfan57/gif-expert-app-vite
