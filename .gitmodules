@@ -1,6 +1,6 @@
 [submodule "03-counter-app"]
 	path = 03-counter-app
-	url = https://github.com/LuisFarfan57/React-de-cero-a-experto-Hooks-y-MERN/03-counter-app
+	url = https://github.com/LuisFarfan57/03-counter-app
 [submodule "04-gif-expert-app"]
 	path = 04-gif-expert-app
 	url = https://github.com/LuisFarfan57/React-de-cero-a-experto-Hooks-y-MERN/04-gif-expert-app
