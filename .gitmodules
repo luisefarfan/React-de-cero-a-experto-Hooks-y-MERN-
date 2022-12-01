@@ -22,3 +22,9 @@
 [submodule "gif-expert-app-vite"]
 	path = gif-expert-app-vite
 	url = https://github.com/LuisFarfan57/gif-expert-app-vite
+[submodule "curso-react-gifExpert"]
+	path = curso-react-gifExpert
+	url = https://github.com/LuisFarfan57/curso-react-gifExpert.git
+[submodule "MyCustomHooks"]
+	path = MyCustomHooks
+	url = https://github.com/LuisFarfan57/MyCustomHooks.git
