@@ -16,3 +16,6 @@
 [submodule "02-intro-javascript"]
 	path = 02-intro-javascript
 	url = https://github.com/LuisFarfan57/React-de-cero-a-experto-Hooks-y-MERN/02-intro-javascript
+[submodule "02-intro-to-javascript"]
+	path = 02-intro-to-javascript
+	url = https://github.com/LuisFarfan57/02-intro-to-javascript
