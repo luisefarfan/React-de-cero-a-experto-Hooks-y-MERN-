@@ -1,0 +1,18 @@
+[submodule "03-counter-app"]
+	path = 03-counter-app
+	url = https://github.com/LuisFarfan57/React-de-cero-a-experto-Hooks-y-MERN/03-counter-app
+[submodule "04-gif-expert-app"]
+	path = 04-gif-expert-app
+	url = https://github.com/LuisFarfan57/React-de-cero-a-experto-Hooks-y-MERN/04-gif-expert-app
+[submodule "04-gif-expert-app-vite"]
+	path = 04-gif-expert-app-vite
+	url = https://github.com/LuisFarfan57/React-de-cero-a-experto-Hooks-y-MERN/04-gif-expert-app-vite
+[submodule "05-hook-app"]
+	path = 05-hook-app
+	url = https://github.com/LuisFarfan57/React-de-cero-a-experto-Hooks-y-MERN/05-hook-app
+[submodule "CustomHooks"]
+	path = CustomHooks
+	url = https://github.com/LuisFarfan57/React-de-cero-a-experto-Hooks-y-MERN/CustomHooks
+[submodule "02-intro-javascript"]
+	path = 02-intro-javascript
+	url = https://github.com/LuisFarfan57/React-de-cero-a-experto-Hooks-y-MERN/02-intro-javascript
