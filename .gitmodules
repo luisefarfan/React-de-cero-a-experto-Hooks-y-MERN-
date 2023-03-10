@@ -34,3 +34,6 @@
 [submodule "09-toolkit-redux"]
 	path = 09-toolkit-redux
 	url = https://github.com/LuisFarfan57/09-toolkit-redux
+[submodule "calendar"]
+	path = calendar
+	url = https://github.com/LuisFarfan57/CalendarApp.git
