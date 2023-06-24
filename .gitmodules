@@ -37,3 +37,6 @@
 [submodule "calendar"]
 	path = calendar
 	url = https://github.com/LuisFarfan57/CalendarApp.git
+[submodule "calendar-backend"]
+	path = calendar-backend
+	url = https://github.com/LuisFarfan57/CalendarAppBackend.git
